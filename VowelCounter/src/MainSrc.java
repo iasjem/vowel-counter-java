@@ -10,6 +10,7 @@ public class MainSrc {
 	
 	public static void main(String[] args) {
 		System.out.println("Vowel Counter Java version by IasJem\n");
+		System.out.println("Hello!");
 		myVowelCounter(); // count the vowels of the sentence 
 		input.close();
 	}
